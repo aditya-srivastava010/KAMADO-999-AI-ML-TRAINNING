@@ -28,8 +28,8 @@ KAMADO-999-AI-ML-TRAINNING/
 
 | Day | Topics |
 |-----|--------|
-| Day 3 | Data Preprocessing, Feature Engineering, EDA |
-| Day 4 | Model Building, Training, Evaluation Metrics |
+| Day 3 | Basic Data Structure of Python |
+| Day 4 | Python Control Flow Statement |
 | ... | *(More coming soon)* |
 
 ---
@@ -79,7 +79,7 @@ Then open any `.ipynb` file and start exploring!
 ## 🙋‍♂️ Author
 
 **KAMADO-999**
-- GitHub: [@KAMADO-999](https://github.com/KAMADO-999)
+- GitHub: [@aditya-srivastava](https://github.com/aditya-srivastava010)
 
 ---
 
